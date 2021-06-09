@@ -1,0 +1,70 @@
+<html>
+<head>
+<meta content="text/html; charset=utf-8" />
+<title>Δοκίμασε το</title>
+
+ 
+<style type="text/css">
+table {
+border-collapse: collapse;
+}
+
+table, td, th {
+border:1px solid black;
+}
+</style>
+</head>
+
+<body>
+
+<table>
+  <tr>
+    <th></th>
+    <th>Δευτέρα</th>
+    <th>Τρίτη</th>
+    <th>Τετάρτη</th>
+    <th>Πέμπτη</th>
+    <th>Παρασκευή</th>
+    </tr>
+  <tr>
+    <td>9:00-12:00</td>
+ <td>Δίκτυα Υπολογιστών (Θ)</td>
+    <td></td>
+    <td>Εισαγώγη στην διαχείρηση δεδομένων</td>
+    <td>Διαχείρηση πολιτιστικών αγαθών</td>
+    <td></td>
+    
+  </tr>
+  <tr>
+    <td>12:00-3:00</td>
+    <td></td>
+    <td>Δίκτυα Υπολογιστών (Ε)</td>
+    <td></td>
+    <td>Πληροφοριακή παιδεία</td>
+    <td></td>
+        
+    
+  </tr>
+  <tr>
+    <td>4:00-6:00</td>
+    <td>Διοίκηση μονάδων πληροφόρησης</td>
+    <td>Ανάπτυξη Ακαδημαικών Και Επαγγελματικών Δεξιοτήτων</td>
+    <td></td>
+    <td></td>
+    <td>Πτυχιακή</td>
+  </tr>
+   
+   <tr>
+   <td>6:00-8:00</td>
+   <td>Ιατρική πληροφόρηση</td>
+   <td></td>
+   <td></td>
+   <td>Ψηφιακά Μουσεία</td>
+   
+   </tr>
+   
+</table>
+</body>
+
+</head>
+</html>
